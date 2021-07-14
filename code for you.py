@@ -7,7 +7,7 @@ def promocode():
     print(" Ok... I will make it simple for you use my zomato promocode for it: ")
 
 def code():
-    print("3r96ajp   I hope you get a chicken sandwich and a cheese burger...!")
+    print("3xzNgVr   I hope you get a chicken sandwich and a cheese burger...!")
 
 keyword()
 
